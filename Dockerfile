@@ -1,1 +1,1 @@
-FROM elestio/pgadmin:REL-8_7
+FROM dpage/pgadmin4:2024-06-04-1
